@@ -66,9 +66,9 @@ All keys are managed purely via `localStorage` directly in the browser. The unde
 ## 👨‍💻 Meet the Developer
 
 **Muhammad Schees**  
-*Senior Full-Stack Engineer & UI/UX Visionary*
+*Generative AI Professional & Technical Visionary*
 
-I build software that marries impeccable scalable engineering with $100M-feeling front-end aesthetics. If you appreciate beautiful code and immersive user experiences:
+I build intelligent, AI-driven solutions that marry complex reasoning capabilities with $100M-feeling front-end aesthetics. If you appreciate highly robust AI architectures and immersive user experiences:
 
 - 💼 **Let's Connect:** [LinkedIn Profile](https://www.linkedin.com/in/muhammadschees/)
 - 🐙 **More Projects:** [GitHub @msk0442](https://github.com/msk0442)
